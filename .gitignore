@@ -64,3 +64,4 @@ example_code/
 # Private stuff
 Grades*
 students.csv
+.Rproj.user
