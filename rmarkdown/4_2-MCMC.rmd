@@ -1,0 +1,10 @@
+---
+title: "4_2 MCMC"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, echo=FALSE, message=FALSE}
+
+```

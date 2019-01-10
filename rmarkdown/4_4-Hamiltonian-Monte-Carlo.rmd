@@ -1,0 +1,10 @@
+---
+title: "4_4 Hamiltonian Monte Carlo"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, echo=FALSE, message=FALSE}
+
+```
